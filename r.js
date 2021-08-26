@@ -1,3 +1,3 @@
 window.setTimeout(function(){
-    location.href = 'https://lubao.xyz/'
+    location.href = 'https://lubao.bar/'
 }, 800)
